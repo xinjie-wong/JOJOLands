@@ -1,0 +1,20 @@
+Town Hall,Vineyard,3
+Town Hall,Libeccio,2
+Town Hall,Cafe Deux Magots,4
+Town Hall,Trattoria Trussardi,6
+Libeccio,Vineyard,3
+Cafe Deux Magots,Polnareff Land,2
+Cafe Deux Magots,Savage Garden,5
+Cafe Deux Magots,Jade Garden,3
+Cafe Deux Magots,Morioh Grand Hotel,6
+Savage Garden,Jade Garden,4
+Savage Garden,San Giorgio Maggiore,6
+San Giorgio Maggiore,Joestar Mansion,5
+Joestar Mansion,Jade Garden,3
+Joestar Mansion,Morioh Grand Hotel,4
+Joestar Mansion,Trattoria Trussardi,5
+Trattoria Trussardi,DIO's Mansion,4
+Trattoria Trussardi,Angelo Rock,3
+Angelo Rock,DIO's Mansion,1
+Angelo Rock,Green Dolphin Street Prison,8
+DIO's Mansion,Green Dolphin Street Prison,6

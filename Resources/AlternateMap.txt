@@ -1,0 +1,20 @@
+Town Hall,Morioh Grand Hotel,2
+Town Hall,Green Dolphin Street Prison,3
+Town Hall,Passione Restaurant,7
+Morioh Grand Hotel,Green Dolphin Street Prison,2
+Morioh Grand Hotel,Joestar Mansion,4
+Morioh Grand Hotel,San Giorgio Maggiore,3
+San Giorgio Maggiore,Savage Garden,6
+Savage Garden,Vineyard,4
+Vineyard,Cafe Deux Magots,4
+Cafe Deux Magots,DIO's Mansion,1
+Cafe Deux Magots,Passione Restaurant,4
+DIO's Mansion,Polnareff Land,2
+DIO's Mansion,Passione Restaurant,2
+Polnareff Land,Jade Garden,2
+Polnareff Land,Angelo Rock,2
+Jade Garden,Angelo Rock,1
+Angelo Rock,Passione Restaurant,6
+Passione Restaurant,Trattoria Trussardi,1
+Trattoria Trussardi,Green Dolphin Street Prison,4
+Trattoria Trussardi,Joestar Mansion,5
